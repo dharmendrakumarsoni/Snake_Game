@@ -91,8 +91,8 @@ public class GameBoard extends JPanel implements ActionListener {
         FontMetrics metrics = getFontMetrics(font);
         graphics.setColor(Color.white);
         graphics.setFont(font);
-        graphics.drawString(msg, (width-metrics.stringWidth(msg))/2, (height/2)-10);
-        graphics.drawString(scoremsg, (width-metrics.stringWidth(scoremsg))/2, (height/2)+10);
+        graphics.drawString(msg, (width-metrics.stringWidth(msg))/2, height/4);
+        graphics.drawString(scoremsg, (width-metrics.stringWidth(scoremsg))/2, 3*(height/4));
 
     }
 
