@@ -18,3 +18,6 @@ https://drive.google.com/drive/folders/1Trh8cnIy_tpDuRsKwlz3zEcqPEwd2GPQ?usp=sha
 
 ### Project snips:
 
+![Screenshot (200)](https://github.com/dharmendrakumarsoni/Snake_Game/assets/136853362/def24774-e5c7-4050-910c-bddfb9dc17f1)
+
+![Screenshot (195)](https://github.com/dharmendrakumarsoni/Snake_Game/assets/136853362/0aabb246-adc1-46ba-a67f-cf56b899b5d3)
